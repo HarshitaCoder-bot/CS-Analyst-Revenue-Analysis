@@ -57,7 +57,7 @@ To evaluate parent-wise and product-wise revenue trends using raw transaction da
 
 ## 📌 Screenshots
 
-![Dashboards][
+![Dashboards](https://github.com/HarshitaCoder-bot/CS-Analyst-Revenue-Analysis/blob/413cb7c263de91a854b06db13b5121d2e80d58e6/Dashboards.png?raw=true)
 ---
 
 ## 🧠 Learnings
@@ -66,8 +66,6 @@ To evaluate parent-wise and product-wise revenue trends using raw transaction da
 - Structuring large datasets for analysis
 - Translating data into business language for stakeholders
 
----
 
-## 📁 File Structure
 
 
